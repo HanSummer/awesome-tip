@@ -1,2 +1,2 @@
 # awesome-tip
-every tip
+tip : Any 
